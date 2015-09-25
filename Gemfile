@@ -18,6 +18,7 @@ gem 'bootstrap-sass',         '~> 3.3.4.1'
 gem 'ransack',                '~> 1.6.6'
 gem 'paperclip',              '~> 4.3'
 gem 'aws-sdk',                '< 2.0'
+gem 'instagram'
 
 group :development, :test do
   gem 'hirb'
